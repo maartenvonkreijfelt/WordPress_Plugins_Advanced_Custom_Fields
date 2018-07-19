@@ -1,0 +1,16 @@
+/*
+Theme Name: Simone Child Theme
+Template: simone
+Theme URI: http://wordpress2a:8888
+Description: A child theme of the simone theme.
+Author: Maarten von Kreijfelt
+Author URI: http://www.preludio.nl
+
+Version: 0.1.0
+*/
+
+@charset "UTF-8";
+/* CSS Document */
+
+@import url("../simone/style.css");
+
