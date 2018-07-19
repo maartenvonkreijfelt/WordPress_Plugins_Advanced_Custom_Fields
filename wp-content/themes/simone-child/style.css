@@ -14,3 +14,22 @@ Version: 0.1.0
 
 @import url("../simone/style.css");
 
+.info-box {
+    margin-bottom: 2rem;
+    padding: 0 2rem 2rem;
+    background: hsl(0, 0%, 85%) ;
+}
+
+.info-box h1{
+    margin-left:  -2rem;
+    margin-right:  -2rem;
+    padding: .5rem 2rem;
+    font-size: 2.5rem;
+    background: hsl(0, 0%, 10%);
+    color:#fff;
+}
+
+.info-box p{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.6rem;
+}
